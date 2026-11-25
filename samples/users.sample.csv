@@ -1,0 +1,69 @@
+user_id,signup_date,channel,gender,age_group,device,location,occupation
+u_nonuser,2026-05-14,organic,F,26-35,Mobile app,Nairobi,Employed
+u_new,2026-11-20,organic,F,26-35,Mobile app,Nairobi,Employed
+u_stopper,2026-02-03,organic,F,26-35,Mobile app,Nairobi,Employed
+u_grower,2026-02-03,referral,F,26-35,Mobile app,Nairobi,Employed
+u_dropper,2026-02-03,organic,F,26-35,Mobile app,Nairobi,Employed
+u_daily,2026-02-03,organic,F,26-35,Mobile app,Nairobi,Employed
+u_lost,2024-09-21,organic,F,26-35,Mobile app,Nairobi,Employed
+u_lost2,2024-09-21,organic,F,26-35,Mobile app,Nairobi,Employed
+u_000,2025-11-24,organic,F,36-50,USSD,Nairobi,Employed
+u_001,2026-09-13,podcast,M,18-25,Mobile app,Nairobi,SME
+u_002,2026-08-22,referral,F,50+,Mobile app,Mombasa,Student
+u_003,2025-03-30,referral,F,36-50,USSD,Mombasa,Student
+u_004,2025-03-05,organic,F,50+,USSD,Nakuru,Self-employed
+u_005,2025-07-02,referral,M,26-35,Web,Nakuru,Student
+u_006,2026-08-03,instagram,M,18-25,Mobile app,Kisumu,SME
+u_007,2026-01-03,referral,F,50+,Web,Nakuru,Student
+u_008,2026-05-04,referral,F,50+,USSD,Mombasa,Self-employed
+u_009,2026-01-06,referral,M,36-50,USSD,Kisumu,Employed
+u_010,2025-05-12,podcast,M,50+,Web,Nakuru,Student
+u_011,2025-06-15,referral,F,36-50,USSD,Nairobi,Student
+u_012,2026-03-23,organic,F,18-25,USSD,Kisumu,Self-employed
+u_013,2025-06-18,referral,M,26-35,USSD,Nairobi,Self-employed
+u_014,2025-01-01,instagram,M,26-35,Web,Mombasa,Self-employed
+u_015,2025-01-08,podcast,F,26-35,USSD,Nakuru,Self-employed
+u_016,2026-09-22,instagram,M,36-50,Mobile app,Kisumu,SME
+u_017,2025-10-29,podcast,F,50+,USSD,Kisumu,Student
+u_018,2026-06-21,referral,F,26-35,Mobile app,Mombasa,SME
+u_019,2026-05-25,referral,M,36-50,USSD,Nakuru,Employed
+u_020,2026-08-20,organic,M,26-35,USSD,Nairobi,Employed
+u_021,2026-04-28,organic,M,50+,Mobile app,Nairobi,Employed
+u_022,2026-04-09,organic,M,36-50,USSD,Mombasa,Self-employed
+u_023,2025-07-15,referral,M,18-25,Mobile app,Kisumu,Employed
+u_024,2026-02-04,organic,M,50+,Mobile app,Mombasa,Employed
+u_025,2025-08-06,podcast,F,50+,Web,Kisumu,Student
+u_026,2026-06-28,instagram,F,26-35,Web,Mombasa,SME
+u_027,2026-01-30,organic,M,18-25,USSD,Mombasa,Student
+u_028,2026-01-24,podcast,F,36-50,USSD,Nakuru,Self-employed
+u_029,2025-01-23,organic,F,36-50,Mobile app,Mombasa,Employed
+u_030,2025-12-06,instagram,M,18-25,Web,Nairobi,Student
+u_031,2026-10-03,organic,M,50+,USSD,Nakuru,Self-employed
+u_032,2026-03-15,podcast,M,18-25,Mobile app,Nairobi,Student
+u_033,2025-01-19,instagram,F,36-50,Mobile app,Nakuru,Employed
+u_034,2026-05-13,referral,F,36-50,Mobile app,Kisumu,Employed
+u_035,2026-10-20,organic,M,18-25,Mobile app,Nakuru,Student
+u_036,2025-09-13,instagram,M,26-35,Mobile app,Mombasa,SME
+u_037,2025-11-22,organic,M,50+,USSD,Nairobi,Student
+u_038,2025-01-18,organic,F,18-25,USSD,Nakuru,Self-employed
+u_039,2026-08-06,organic,M,36-50,Mobile app,Mombasa,Student
+u_040,2025-02-14,instagram,F,18-25,Web,Nairobi,SME
+u_041,2026-01-19,referral,M,36-50,USSD,Kisumu,SME
+u_042,2025-07-01,organic,F,26-35,USSD,Kisumu,Self-employed
+u_043,2026-06-08,podcast,M,18-25,Mobile app,Nairobi,SME
+u_044,2025-07-17,podcast,F,26-35,USSD,Nairobi,Self-employed
+u_045,2026-02-04,organic,M,18-25,Mobile app,Kisumu,Employed
+u_046,2026-02-08,organic,M,26-35,USSD,Nairobi,Student
+u_047,2025-08-27,instagram,M,50+,Mobile app,Mombasa,Employed
+u_048,2026-08-06,podcast,M,50+,Web,Mombasa,Employed
+u_049,2026-02-14,referral,M,18-25,Web,Mombasa,Self-employed
+u_050,2026-01-30,podcast,M,26-35,Web,Kisumu,Self-employed
+u_051,2026-08-19,podcast,M,50+,Mobile app,Nairobi,SME
+u_052,2025-04-29,referral,M,50+,USSD,Nairobi,Student
+u_053,2026-08-10,organic,M,50+,Web,Kisumu,Employed
+u_054,2025-06-22,instagram,F,18-25,Mobile app,Nakuru,SME
+u_055,2026-07-30,organic,M,50+,Web,Nakuru,Employed
+u_056,2026-10-15,referral,F,50+,Mobile app,Kisumu,Self-employed
+u_057,2026-07-02,organic,F,50+,Web,Kisumu,Student
+u_058,2026-08-01,referral,M,18-25,Web,Nakuru,Self-employed
+u_059,2025-11-16,organic,F,50+,Mobile app,Kisumu,SME

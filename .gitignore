@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/
+sent_log.csv
+*.log
+.env
+.DS_Store
